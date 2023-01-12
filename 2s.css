@@ -1,0 +1,24 @@
+#table,#th,#td{
+    text-align:center;
+    border:solid;
+    border-radius:2px;
+    table-layout: fixed;
+    width:100%;
+    border-collapse:collapse;
+    border-color: black;
+}
+#table{
+    background-color:salmon;
+}
+#th{
+    background-color:greenyellow;
+}
+#td{
+    background-color:blue;
+}
+#th:hover{
+    background-color: crimson;
+}
+td:hover{
+    background-color: fuchsia;
+}
