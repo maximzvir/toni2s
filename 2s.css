@@ -19,6 +19,6 @@
 #th:hover{
     background-color: crimson;
 }
-td:hover{
+#td:hover{
     background-color: fuchsia;
 }
